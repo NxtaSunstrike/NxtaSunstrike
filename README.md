@@ -6,7 +6,7 @@
 
 
 
-    - 🔭 I’m currently working on **AIOgram & Flask 
+    - 🔭 I’m currently working on AIOgram & Flask 
     
     - 🌱 I’m currently learning FastAPI, Flask, AIOgram
     
