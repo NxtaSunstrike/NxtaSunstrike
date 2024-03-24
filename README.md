@@ -6,13 +6,13 @@
 
 
 <center>
-    - 🔭 I’m currently working on **AIOgram & Flask **
+   <h1> - 🔭 I’m currently working on **AIOgram & Flask </h1>
     
-    - 🌱 I’m currently learning **FastAPI, Flask, AIOgram**
+    - 🌱 I’m currently learning FastAPI, Flask, AIOgram
     
-    - 💬 Ask me about **Python**
+    - 💬 Ask me about Python
     
-    - ⚡ Fun fact *I am 15 y.o*
+    - ⚡ Fun fact I am 15 y.o
 </center>
 
 
