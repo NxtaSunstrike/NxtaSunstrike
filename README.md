@@ -1,4 +1,4 @@
-<h3 align="center">A AIOgram && Flask programmer from Petrozavodsk</h3>
+<h3 align="center">AIOgram && Flask programmer from Petrozavodsk</h3>
 
 <div align="center">
     <img src="https://github.com/NxtaSunstrike/NxtaSunstrike/blob/main/assets/Banner.gif"/><br/>
