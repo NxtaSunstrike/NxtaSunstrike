@@ -5,15 +5,15 @@
 </div>
 
 
-
-- 🔭 I’m currently working on **AIOgram & Flask **
-
-- 🌱 I’m currently learning **FastAPI, Flask, AIOgram**
-
-- 💬 Ask me about **Python**
-
-- ⚡ Fun fact *I am 15 y.o*
-
+<center>
+    - 🔭 I’m currently working on **AIOgram & Flask **
+    
+    - 🌱 I’m currently learning **FastAPI, Flask, AIOgram**
+    
+    - 💬 Ask me about **Python**
+    
+    - ⚡ Fun fact *I am 15 y.o*
+</center>
 
 
 <hr/>
