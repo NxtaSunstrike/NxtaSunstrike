@@ -6,13 +6,13 @@
 
 
 
-    - 🔭 I’m currently working on AIOgram & Flask 
+    - 🔭 I’m currently working on FasAPI
     
-    - 🌱 I’m currently learning FastAPI, Flask, AIOgram
+    - 🌱 I’m currently learning FastAPI
     
     - 💬 Ask me about Python
     
-    - ⚡ Fun fact I am 15 y.o
+    - ⚡ Fun fact I am 16 y.o
 
 
 
@@ -21,6 +21,6 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,vscode,javascript,python,docker,flask,fastapi"/><br/>
+    <img src="https://skillicons.dev/icons?i=vscode,javascript,python,docker,fastapi"/><br/>
     
 </div>
